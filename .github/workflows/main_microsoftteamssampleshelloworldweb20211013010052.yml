@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'MicrosoftTeamsSamplesHelloWorldWeb20211013010052'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_735976E14B334F67A13569DBACFE4D63 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C545D4B9A60B43CCA891D402AE42446F }}
           package: .
