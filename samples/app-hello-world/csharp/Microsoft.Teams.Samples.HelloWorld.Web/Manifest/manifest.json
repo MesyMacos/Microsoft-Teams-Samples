@@ -27,7 +27,7 @@
     {
       "entityId": "com.contoso.helloworld.hellotab",
       "name": "Hello Tab",
-      "contentUrl": "https://yourteamsapp.azurewebsites.net/hello",
+      "contentUrl": "https://microsoftteamssampleshelloworldweb20211013010052.azurewebsites.net/hello",
       "scopes": [
         "personal"
       ]
@@ -35,7 +35,7 @@
   ],
   "configurableTabs": [
     {
-      "configurationUrl": "https://yourteamsapp.azurewebsites.net/configure",
+      "configurationUrl": "https://microsoftteamssampleshelloworldweb20211013010052.azurewebsites.net/configure",
       "canUpdateConfiguration": true,
       "scopes": [
         "team"
