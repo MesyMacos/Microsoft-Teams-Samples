@@ -65,7 +65,7 @@
           "parameters": [
             {
               "name": "cardTitle",
-              "description": "Card title to use.",
+              "description": "Card title to use",
               "title": "Card title"
             }
           ]
